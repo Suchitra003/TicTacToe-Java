@@ -1,2 +1,58 @@
-# TicTacToe-Java
+
+# Tic-Tac-Toe Game in Java
+
 This is a simple and interactive Tic-Tac-Toe game developed in Java for beginners. The project demonstrates core Java concepts such as arrays, loops, conditional statements, methods, and user input handling.
+
+## Features
+
+* Two-player gameplay (X and O)
+* Custom player names
+* Dynamic game board
+* Winner detection
+* Draw detection
+* Input validation
+* Scoreboard tracking
+* Play Again option
+* Console-based user interface
+
+## Technologies Used
+
+* Java
+* VS Code / IntelliJ IDEA
+* Git & GitHub
+
+## Learning Outcomes
+
+This project helps beginners understand:
+
+* Java programming fundamentals
+* Object-oriented programming concepts
+* Arrays and loops
+* Method creation and reuse
+* User interaction through console input
+* Game logic implementation
+
+## How to Run
+
+Compile the program:
+
+```bash
+javac TicTacToeProject.java
+```
+
+Run the program:
+
+```bash
+java TicTacToeProject
+```
+
+## Future Enhancements
+
+* Graphical User Interface (GUI) using Java Swing
+* Single-player mode with AI
+* Online multiplayer support
+* Game statistics and leaderboard
+* Enhanced animations and sound effects
+
+---
+
